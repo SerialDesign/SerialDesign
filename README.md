@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/serialcereal"><img src="https://api.daily.dev/devcards/v2/82bzrG2qvympLS1WFXYK0.png?r=l03&type=default" width="356" alt="Serial's Dev Card"/></a>
+<a href="https://app.daily.dev/serialcereal"><img src="./devcard.png" width="356" alt="Serial's Daily Dev Card"/></a>
