@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Live.
+Laugh.
+Log.
+
+
 <a href="https://github.com/nvbn/thefuck?utm_source=slothbytes.beehiiv.com&utm_medium=newsletter&utm_campaign=automate-your-life-with-python&_bhlid=7c27ac7ee2f0192149b6b72d25a8aa87616352d4" target="_blank">Console help needed?</a>
 
 <a href="https://app.daily.dev/serialcereal"><img src="./devcard.png" width="356" alt="Serial's Daily Dev Card"/></a>
