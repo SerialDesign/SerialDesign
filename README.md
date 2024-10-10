@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!-- *** DAILY.DEV CARD *** -->
 
-<a href="https://app.daily.dev/serialcereal" align="center"><img src="./devcard.png" width="356" alt="Serial's Daily Dev Card"/></a><br><br>
+<div align="center"><a href="https://app.daily.dev/serialcereal"><img src="./devcard.png" width="356" alt="Serial's Daily Dev Card"/></a></div><br><br>
 
 
 <!-- on mac > documents > priv > github > README. if change needed, upload to https://rahuldkjain.github.io/gh-profile-readme-generator/  and edit --> 
